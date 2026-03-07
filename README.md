@@ -1,8 +1,6 @@
-# # Somanna Poolanda (Sachin)
+# Somanna Poolanda (Sachin)
 
-DevOps & Cloud‑Native Engineer living in the terminal.I build and run Kubernetes platforms on AWS and Azure, using Linux, Terraform, GitOps, and Python to automate everything from infrastructure to delivery pipelines
-
-I’m in love with this craft because there is always more to learn, break, and improve.
+DevOps & Cloud‑Native engineer building Kubernetes platforms on AWS and Azure.
 
 ## Things I've Built
 
