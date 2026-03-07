@@ -11,7 +11,6 @@ I treat it like a real platform: clusters, networking, security, and CI/CD wired
 
 <https://github.com/somannapoolanda/homelab>
 
-___
 
 ### Automation & Tooling
 
@@ -19,7 +18,6 @@ Small tools and scripts that make my day‑to‑day work easier, usually written
 
 <https://github.com/somannapoolanda/lab>
 
----
 
 ## Cloud & Platforms
 
@@ -28,7 +26,6 @@ My main focus areas are Kubernetes platforms, infrastructure as code (Terraform)
 
 <https://github.com/somannapoolanda/mercury-workflows>
 
----
 
 ## Python
 
