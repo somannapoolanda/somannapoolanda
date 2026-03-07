@@ -19,7 +19,7 @@ Small tools and scripts that make my day‑to‑day work easier, usually written
 <https://github.com/somannapoolanda/lab>
 
 
-## Cloud & Platforms
+### Cloud & Platforms
 
 I work as a Cloud / DevOps **Engineer** in environments built on AWS and Azure.  
 My main focus areas are Kubernetes platforms, infrastructure as code (Terraform), GitOps workflows, and CI/CD pipelines.
@@ -27,7 +27,7 @@ My main focus areas are Kubernetes platforms, infrastructure as code (Terraform)
 <https://github.com/somannapoolanda/mercury-workflows>
 
 
-## Python
+### Python
 
 Actively improving my Python for tooling, automation, and backend‑style tasks.  
 I like that I can use it across scripts, CLIs, automation, and cloud tooling, all from the same language
