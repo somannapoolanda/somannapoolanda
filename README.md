@@ -1,4 +1,4 @@
-# Somanna Poolanda (Sachin)
+# Somanna Poolanda
 
 DevOps & Cloud‑Native engineer building Kubernetes platforms on AWS and Azure.
 
