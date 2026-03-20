@@ -2,17 +2,44 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="DedEQBD-qsLbVOerPlNlvikGx4Xa29IKzeB5zKLDFL4" />
   <title>Somanna Poolanda</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      line-height: 1.6;
+      padding: 0 20px;
+    }
+    h1, h2, h3 {
+      margin-top: 24px;
+    }
+    pre {
+      background: #f4f4f4;
+      padding: 10px;
+      overflow-x: auto;
+    }
+    code {
+      background: #f4f4f4;
+      padding: 2px 4px;
+    }
+  </style>
+
+  <!-- Markdown parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
+
 <body>
-  <div id="content">Loading...</div>
+  <div id="content">Loading your profile...</div>
 
   <script>
     fetch('README.md')
       .then(response => response.text())
       .then(text => {
-        document.getElementById('content').innerText = text;
+        document.getElementById('content').innerHTML = marked.parse(text);
       });
   </script>
 </body>
