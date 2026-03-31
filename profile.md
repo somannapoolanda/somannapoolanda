@@ -1,12 +1,15 @@
 # Somanna Poolanda
 
-DevOps & Cloud‑Native engineer building Kubernetes platforms on AWS and Azure.
+Hi, I’m **Somanna Poolanda**, a DevOps & Cloud‑Native engineer building Kubernetes platforms on AWS and Azure.  
+You can view my full GitHub profile here: [github.com/somannapoolanda](https://github.com/somannapoolanda).
+
+This site highlights selected work from my GitHub profile for **Somanna Poolanda** (username `somannapoolanda`), including homelab, automation, and cloud platform projects.
 
 ## Things I've Built
 
 ### Kubernetes Homelab
 
-My lab environment for experimenting with production‑grade Kubernetes, GitOps, and observability – all running on my own hardware.
+My lab environment for experimenting with production‑grade Kubernetes, GitOps, and observability – all running on my own hardware.  
 I treat it like a real platform: clusters, networking, security, and CI/CD wired together via FluxCD and automation.
 
 <https://github.com/somannapoolanda/homelab>
