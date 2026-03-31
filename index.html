@@ -36,7 +36,7 @@
   <div id="content">Loading your profile...</div>
 
   <script>
-    fetch('README.md')
+    fetch('profile.md')
       .then(response => response.text())
       .then(text => {
         document.getElementById('content').innerHTML = marked.parse(text);
